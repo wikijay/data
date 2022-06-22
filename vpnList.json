@@ -9,6 +9,15 @@
     "local": 0
   },
   {
+    "flag_url": "https://countryflagsapi.com/png/CAN",
+    "map_url": "https://api.tap2free.net/images/ZVphKacvVRb8Njb6cf54lA1sCRJOaG.png",
+    "ip": "104.129.128.151",
+    "country": "Canada",
+    "name": "Canada, Toronto",
+    "status": "PRO",
+    "local": 0
+  },
+  {
     "flag_url": "https://countryflagsapi.com/png/AUS",
     "map_url": "https://api.tap2free.net/images/9jIjeKFb6ZP5MpS8Wpzn3dHXZ1uw2h.png",
     "ip": "139.99.236.232",
@@ -59,15 +68,6 @@
     "ip": "185.183.131.54",
     "country": "Bulgaria",
     "name": "Bulgaria, Sofia 2",
-    "status": "PRO",
-    "local": 0
-  },
-  {
-    "flag_url": "https://countryflagsapi.com/png/CAN",
-    "map_url": "https://api.tap2free.net/images/ZVphKacvVRb8Njb6cf54lA1sCRJOaG.png",
-    "ip": "104.129.128.151",
-    "country": "Canada",
-    "name": "Canada, Toronto",
     "status": "PRO",
     "local": 0
   },
